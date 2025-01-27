@@ -1,0 +1,11 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  background-color: #d3b81f;
+  color: #333;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
